@@ -1,0 +1,17 @@
+.success {
+    color: green;
+    background-color: lightgreen;
+    padding: 5px;
+    border: green 2px solid;
+    font-size: 2rem;
+    margin-bottom: 5px;
+}
+
+.fail {
+  color: red;
+  background-color: pink;
+  padding: 5px;
+  border: red 2px solid;
+  font-size: 2rem;
+  margin-bottom: 5px;
+}
